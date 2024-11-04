@@ -7,7 +7,6 @@ Welcome to the **Turtle Catch Them All** project! This ROS2 application allows f
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Launch File](#launch-file)
 - [Contributing](#contributing)
 - [License](#license)
 
