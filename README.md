@@ -11,7 +11,7 @@ Welcome to the **Turtle Catch Them All** project! This ROS2 application allows f
 - [Contributing](#contributing)
 - [License](#license)
 
-[Sample video](!cpp.gif)
+![Sample video](cpp.gif)
 
 ## Features
 
@@ -55,6 +55,6 @@ ros2 launch launchfile turtleLauncher.launch.py
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 ## License
 
-This project is licensed under the [Apache-2.0 License](!LICENSE). See the LICENSE file for more information.
+This project is licensed under the [Apache-2.0 License](LICENSE). See the LICENSE file for more information.
 
 
