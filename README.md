@@ -11,6 +11,8 @@ Welcome to the **Turtle Catch Them All** project! This ROS2 application allows f
 - [Contributing](#contributing)
 - [License](#license)
 
+[Sample video](!cpp.gif)
+
 ## Features
 
 - Spawns turtles at random positions in the simulation.
@@ -44,7 +46,7 @@ To get started with the project, follow these steps:
    source ~/.bashrc
    ```
 ## Usage
-The project includes a launch file located at launch_file/launch/turtleLauncher.launch.py. You can use this launch file to start the turtlesim and the Turtle Spawner Node simultaneously.
+The project includes a launch file located at `launch_file/launch/turtleLauncher.launch.py`. You can use this launch file to start the turtlesim and the Turtle Spawner Node simultaneously.
 ```
 ros2 launch launchfile turtleLauncher.launch.py
 ```
@@ -53,6 +55,6 @@ ros2 launch launchfile turtleLauncher.launch.py
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 ## License
 
-This project is licensed under the [Apache License](!License). See the LICENSE file for more information.
+This project is licensed under the [Apache-2.0 License](!LICENSE). See the LICENSE file for more information.
 
 
